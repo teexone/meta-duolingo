@@ -1,0 +1,13 @@
+space:
+  auth_url: "http://localhost:3030/api/v1/login/access-token"
+  gql_url: "http://localhost:3030/api/v1/graphql"
+  ws_url: "wss://localhost:3030/api/v1/graphql"
+  username: "root@julius"
+  password: "pisos"
+  host:
+    alias: "THE CORE"
+    conn_url: "https://core.onjulius.co/"
+    sa:
+      alias: "Alex"
+      core_username: "aleksandr"
+      core_password: "teexone"
